@@ -1,5 +1,7 @@
 # mixup-meta-protein-simulators
 
+## Environment
+Install the required packages from 'requirements.txt'.
 ## Get Data
 Run collect_diff_temp_chignolin.py 
 
