@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 ## Get Data
 Run `collect_diff_temp_chignolin.py` to get the trajectories under different temperature.  <br> 
-As in our settings, you will get 10000 data points for temperature {280K, 300K, 320K} and 3000 data points for temperature {285K, 290K, 295K, 305K, 310K, 315K, 350K}
+As in our settings, you will get 10000 data points for temperature {280K, 300K, 320K} and 3000 data points for temperature {285K, 290K, 295K, 305K, 310K, 315K, 350K}.
 
 ## Train the Model
 
