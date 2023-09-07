@@ -39,3 +39,5 @@ The argument `--meta` can be set to FALSE if you want to evaluate the models wit
 }
 ```
 
+## Acknowledgements
+This repo is built upon the previous work [EGNNs](https://github.com/vgsatorras/egnn). Thanks to the authors!
